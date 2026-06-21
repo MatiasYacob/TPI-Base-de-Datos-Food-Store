@@ -1,0 +1,16 @@
+# Archivos temporales del sistema
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales de editores
+*.tmp
+*.bak
+*.swp
+
+# Carpetas de herramientas locales
+.vscode/
+.idea/
+
+# Dumps locales grandes o temporales
+*.log
+
